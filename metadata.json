@@ -1,0 +1,6 @@
+{
+  "name": "RUZIE AI",
+  "description": "RUZIE AI - Asisten AI cerdas dan ramah dengan multi-tema (Light, Dark, Cyber) dan chat real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
